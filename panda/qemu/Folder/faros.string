@@ -1,0 +1,115 @@
+IOCTL_AFD_RECV<<BufferCount:1@AfdFlags:0@TdiFlags:32@OrgBufLen:1@AsciiBufLen:0@AsciiBuf #1 Content:{}>>
+IOCTL_AFD_RECV<<BufferCount:1@AfdFlags:0@TdiFlags:32@OrgBufLen:1@AsciiBufLen:0@AsciiBuf #1 Content:{}>>
+IOCTL_AFD_SEND<<BufferCount:1@AfdFlags:0@TdiFlags:0@OrgBufLen:2@AsciiBufLen:0@AsciiBuf #1 Content:{}>>
+IOCTL_AFD_SELECT<<>>
+IOCTL_AFD_RECV<<BufferCount:1@AfdFlags:0@TdiFlags:32@OrgBufLen:1@AsciiBufLen:0@AsciiBuf #1 Content:{}>>
+IOCTL_AFD_RECV<<BufferCount:1@AfdFlags:0@TdiFlags:32@OrgBufLen:1@AsciiBufLen:0@AsciiBuf #1 Content:{}>>
+IOCTL_AFD_SEND<<BufferCount:1@AfdFlags:0@TdiFlags:0@OrgBufLen:2@AsciiBufLen:0@AsciiBuf #1 Content:{}>>
+IOCTL_AFD_RECV<<BufferCount:1@AfdFlags:0@TdiFlags:32@OrgBufLen:1@AsciiBufLen:0@AsciiBuf #1 Content:{}>>
+IOCTL_AFD_RECV<<BufferCount:1@AfdFlags:0@TdiFlags:32@OrgBufLen:1@AsciiBufLen:0@AsciiBuf #1 Content:{}>>
+IOCTL_AFD_RECV<<BufferCount:1@AfdFlags:0@TdiFlags:32@OrgBufLen:1@AsciiBufLen:0@AsciiBuf #1 Content:{}>>
+IOCTL_AFD_RECV<<BufferCount:1@AfdFlags:0@TdiFlags:32@OrgBufLen:1@AsciiBufLen:0@AsciiBuf #1 Content:{}>>
+IOCTL_AFD_RECV<<BufferCount:1@AfdFlags:0@TdiFlags:32@OrgBufLen:1@AsciiBufLen:0@AsciiBuf #1 Content:{}>>
+IOCTL_AFD_RECV<<BufferCount:1@AfdFlags:0@TdiFlags:32@OrgBufLen:1025@AsciiBufLen:0@AsciiBuf #1 Content:{}>>
+Software\Microsoft\Windows\CurrentVersion\Run\7779e273e5231a4b6af7f1f7666b60f3
+Software\Microsoft\Windows\CurrentVersion\Run
+7779e273e5231a4b6af7f1f7666b60f3
+7779e273e5231a4b6af7f1f7666b60f3
+Software\Microsoft\Windows\CurrentVersion\Run\7779e273e5231a4b6af7f1f7666b60f3
+Software\Microsoft\Windows\CurrentVersion\Run
+IOCTL_AFD_RECV<<BufferCount:1@AfdFlags:0@TdiFlags:32@OrgBufLen:1@AsciiBufLen:0@AsciiBuf #1 Content:{}>>
+IOCTL_AFD_RECV<<BufferCount:1@AfdFlags:0@TdiFlags:32@OrgBufLen:1@AsciiBufLen:0@AsciiBuf #1 Content:{}>>
+IOCTL_AFD_RECV<<BufferCount:1@AfdFlags:0@TdiFlags:32@OrgBufLen:1@AsciiBufLen:0@AsciiBuf #1 Content:{}>>
+IOCTL_AFD_RECV<<BufferCount:1@AfdFlags:0@TdiFlags:32@OrgBufLen:1@AsciiBufLen:0@AsciiBuf #1 Content:{}>>
+IOCTL_AFD_RECV<<BufferCount:1@AfdFlags:0@TdiFlags:32@OrgBufLen:1@AsciiBufLen:0@AsciiBuf #1 Content:{}>>
+IOCTL_AFD_RECV<<BufferCount:1@AfdFlags:0@TdiFlags:32@OrgBufLen:1025@AsciiBufLen:0@AsciiBuf #1 Content:{}>>
+IOCTL_AFD_SELECT<<>>
+IOCTL_AFD_RECV<<BufferCount:1@AfdFlags:0@TdiFlags:32@OrgBufLen:1@AsciiBufLen:0@AsciiBuf #1 Content:{}>>
+IOCTL_AFD_RECV<<BufferCount:1@AfdFlags:0@TdiFlags:32@OrgBufLen:1@AsciiBufLen:0@AsciiBuf #1 Content:{}>>
+IOCTL_AFD_RECV<<BufferCount:1@AfdFlags:0@TdiFlags:32@OrgBufLen:1@AsciiBufLen:0@AsciiBuf #1 Content:{}>>
+IOCTL_AFD_RECV<<BufferCount:1@AfdFlags:0@TdiFlags:32@OrgBufLen:22@AsciiBufLen:0@AsciiBuf #1 Content:{}>>
+SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Capture\{589a9994-6852-4b5c-a5d4-46c622c2cba7}
+DeviceState
+Software\Microsoft\Multimedia\Audio
+UserDuckingPreference
+IOCTL_AFD_SELECT<<>>
+Software\Microsoft\Windows\CurrentVersion\Run\7779e273e5231a4b6af7f1f7666b60f3
+Software\Microsoft\Windows\CurrentVersion\Run
+7779e273e5231a4b6af7f1f7666b60f3
+7779e273e5231a4b6af7f1f7666b60f3
+Software\Microsoft\Windows\CurrentVersion\Run\7779e273e5231a4b6af7f1f7666b60f3
+Software\Microsoft\Windows\CurrentVersion\Run
+\BaseNamedObjects\AudioEngineDuplicateHandleApiPort320379494
+Software\Microsoft\Windows\CurrentVersion\Run\7779e273e5231a4b6af7f1f7666b60f3
+Software\Microsoft\Windows\CurrentVersion\Run
+7779e273e5231a4b6af7f1f7666b60f3
+7779e273e5231a4b6af7f1f7666b60f3
+Software\Microsoft\Windows\CurrentVersion\Run\7779e273e5231a4b6af7f1f7666b60f3
+Software\Microsoft\Windows\CurrentVersion\Run
+IOCTL_AFD_SET_INFO<<>>
+IOCTL_AFD_SET_CONTEXT<<>>
+IOCTL_AFD_SELECT<<>>
+IOCTL_AFD_SEND<<BufferCount:1@AfdFlags:0@TdiFlags:0@OrgBufLen:1711@AsciiBufLen:47@AsciiBuf #1 Content:{MIC|'|'|10.214.148.122:34235|'|'|!|'|'|0|'|'|++}>>
+Software\Microsoft\Windows\CurrentVersion\Run\7779e273e5231a4b6af7f1f7666b60f3
+Software\Microsoft\Windows\CurrentVersion\Run
+7779e273e5231a4b6af7f1f7666b60f3
+7779e273e5231a4b6af7f1f7666b60f3
+Software\Microsoft\Windows\CurrentVersion\Run\7779e273e5231a4b6af7f1f7666b60f3
+Software\Microsoft\Windows\CurrentVersion\Run
+IOCTL_AFD_SET_INFO<<>>
+IOCTL_AFD_SET_CONTEXT<<>>
+IOCTL_AFD_SELECT<<>>
+IOCTL_AFD_SEND<<BufferCount:1@AfdFlags:0@TdiFlags:0@OrgBufLen:1679@AsciiBufLen:47@AsciiBuf #1 Content:{MIC|'|'|10.214.148.122:34235|'|'|!|'|'|0|'|'|++}>>
+Software\Microsoft\Windows\CurrentVersion\Run\7779e273e5231a4b6af7f1f7666b60f3
+Software\Microsoft\Windows\CurrentVersion\Run
+7779e273e5231a4b6af7f1f7666b60f3
+7779e273e5231a4b6af7f1f7666b60f3
+Software\Microsoft\Windows\CurrentVersion\Run\7779e273e5231a4b6af7f1f7666b60f3
+Software\Microsoft\Windows\CurrentVersion\Run
+IOCTL_AFD_SET_INFO<<>>
+IOCTL_AFD_SET_CONTEXT<<>>
+IOCTL_AFD_SELECT<<>>
+IOCTL_AFD_SEND<<BufferCount:1@AfdFlags:0@TdiFlags:0@OrgBufLen:1680@AsciiBufLen:47@AsciiBuf #1 Content:{MIC|'|'|10.214.148.122:34235|'|'|!|'|'|0|'|'|++}>>
+Software\Microsoft\Windows\CurrentVersion\Run\7779e273e5231a4b6af7f1f7666b60f3
+Software\Microsoft\Windows\CurrentVersion\Run
+7779e273e5231a4b6af7f1f7666b60f3
+7779e273e5231a4b6af7f1f7666b60f3
+Software\Microsoft\Windows\CurrentVersion\Run\7779e273e5231a4b6af7f1f7666b60f3
+Software\Microsoft\Windows\CurrentVersion\Run
+IOCTL_AFD_SET_INFO<<>>
+IOCTL_AFD_SET_CONTEXT<<>>
+IOCTL_AFD_SELECT<<>>
+IOCTL_AFD_SEND<<BufferCount:1@AfdFlags:0@TdiFlags:0@OrgBufLen:1703@AsciiBufLen:47@AsciiBuf #1 Content:{MIC|'|'|10.214.148.122:34235|'|'|!|'|'|0|'|'|++}>>
+IOCTL_AFD_SET_INFO<<>>
+IOCTL_AFD_SET_CONTEXT<<>>
+IOCTL_AFD_SELECT<<>>
+IOCTL_AFD_SEND<<BufferCount:1@AfdFlags:0@TdiFlags:0@OrgBufLen:1685@AsciiBufLen:47@AsciiBuf #1 Content:{MIC|'|'|10.214.148.122:34235|'|'|!|'|'|0|'|'|++}>>
+Software\Microsoft\Windows\CurrentVersion\Run\7779e273e5231a4b6af7f1f7666b60f3
+Software\Microsoft\Windows\CurrentVersion\Run
+7779e273e5231a4b6af7f1f7666b60f3
+7779e273e5231a4b6af7f1f7666b60f3
+Software\Microsoft\Windows\CurrentVersion\Run\7779e273e5231a4b6af7f1f7666b60f3
+Software\Microsoft\Windows\CurrentVersion\Run
+Software\7779e273e5231a4b6af7f1f7666b60f3
+[kl]
+[kl]
+IOCTL_AFD_SET_INFO<<>>
+IOCTL_AFD_SET_CONTEXT<<>>
+IOCTL_AFD_SELECT<<>>
+IOCTL_AFD_SEND<<BufferCount:1@AfdFlags:0@TdiFlags:0@OrgBufLen:1685@AsciiBufLen:47@AsciiBuf #1 Content:{MIC|'|'|10.214.148.122:34235|'|'|!|'|'|0|'|'|++}>>
+Software\Microsoft\Windows\CurrentVersion\Run\7779e273e5231a4b6af7f1f7666b60f3
+Software\Microsoft\Windows\CurrentVersion\Run
+7779e273e5231a4b6af7f1f7666b60f3
+7779e273e5231a4b6af7f1f7666b60f3
+Software\Microsoft\Windows\CurrentVersion\Run\7779e273e5231a4b6af7f1f7666b60f3
+Software\Microsoft\Windows\CurrentVersion\Run
+IOCTL_AFD_SET_INFO<<>>
+IOCTL_AFD_SET_CONTEXT<<>>
+IOCTL_AFD_SELECT<<>>
+IOCTL_AFD_SEND<<BufferCount:1@AfdFlags:0@TdiFlags:0@OrgBufLen:1685@AsciiBufLen:47@AsciiBuf #1 Content:{MIC|'|'|10.214.148.122:34235|'|'|!|'|'|0|'|'|++}>>
+Software\Microsoft\Windows\CurrentVersion\Run\7779e273e5231a4b6af7f1f7666b60f3
+Software\Microsoft\Windows\CurrentVersion\Run
+7779e273e5231a4b6af7f1f7666b60f3
+7779e273e5231a4b6af7f1f7666b60f3
+Software\Microsoft\Windows\CurrentVersion\Run\7779e273e5231a4b6af7f1f7666b60f3
+Software\Microsoft\Windows\CurrentVersion\Run

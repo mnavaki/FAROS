@@ -1,0 +1,4 @@
+2 -> notepad.exe;svchost.exe;csrss.exe;svchost.exe;\wkssvc:8;SearchFilterHo;SearchProtocol;wmpnetwk.exe;OUTGOING_FLOW;INCOMING_FLOW;\wkssvc:6;conhost.exe;explorer.exe;inject-clie;kread;kwrite;EXPORT_TABLE;
+1 -> notepad.exe;svchost.exe;csrss.exe;svchost.exe;\wkssvc:8;SearchFilterHo;SearchProtocol;wmpnetwk.exe;OUTGOING_FLOW;INCOMING_FLOW;\wkssvc:6;conhost.exe;explorer.exe;inject-clie;kread;kwrite;EXPORT_TABLE;
+0 -> notepad.exe;svchost.exe;csrss.exe;svchost.exe;\wkssvc:8;SearchFilterHo;SearchProtocol;wmpnetwk.exe;OUTGOING_FLOW;\wkssvc:6;conhost.exe;explorer.exe;INCOMING_FLOW;inject-clie;kread;kwrite;EXPORT_TABLE;
+4294967295 -> notepad.exe;svchost.exe;csrss.exe;svchost.exe;\wkssvc:8;SearchFilterHo;SearchProtocol;wmpnetwk.exe;OUTGOING_FLOW;\wkssvc:6;conhost.exe;explorer.exe;INCOMING_FLOW;inject-clie;kread;kwrite;EXPORT_TABLE;

@@ -1,0 +1,19 @@
+#ifndef __WIN7PROC_H
+#define __WIN7PROC_H
+
+
+typedef struct handle_object_struct {
+    uint8_t objType;
+    uint32_t pObj;
+} HandleObject;
+
+//static char *read_unicode_string(CPUState *env, target_ulong pUstr);
+/*static char * get_objname(CPUState *env, target_ulong obj);
+static char *get_file_obj_name(CPUState *env, uint32_t fobj);
+static HandleObject *get_handle_object(CPUState *env, uint32_t eproc, uint32_t handle);
+static HandleObject *get_handle_object_current(CPUState *env, uint32_t HandleVariable);
+static char *get_handle_object_name(CPUState *env, HandleObject *ho);*/
+char * get_handle_name(CPUState *env, uint32_t eproc, uint32_t handle);
+uint32_t get_current_proc(CPUState *env);
+
+#endif

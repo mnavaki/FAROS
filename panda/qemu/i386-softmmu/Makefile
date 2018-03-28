@@ -1,0 +1,1 @@
+/home/meisam/Desktop/faros-git-june/faros/panda/qemu/Makefile.target

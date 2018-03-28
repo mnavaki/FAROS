@@ -1,0 +1,4 @@
+0 -> notepad.exe;INCOMING_FLOW;inject-client.;kread;kwrite;EXPORT_TABLE;
+1 -> notepad.exe;kread;INCOMING_FLOW;inject-client.;kwrite;EXPORT_TABLE;
+4294967295 -> notepad.exe;INCOMING_FLOW;inject-client.;kread;kwrite;EXPORT_TABLE;
+2 -> notepad.exe;kread;INCOMING_FLOW;inject-client.;kwrite;EXPORT_TABLE;
