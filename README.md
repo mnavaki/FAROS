@@ -12,7 +12,7 @@ using their unique confluence on a memory location as attack
 invariant, and (iii) the use of tags with fine-grained provenance
 information.
 
-## INSTALL
+## Install
 
 To install the PANDA component of FAROS, install all the required libraries
 to install PANDA as detailed in [README_PANDA.md](README_PANDA.md). 
@@ -21,12 +21,12 @@ Once you have installed all the dependencies run the install script, found at
 [qemu/build.sh](qemu/build.sh).
 
 
-## FAROS PLUGIN
+## FAROS Plugin
 
 This plugin can be found in the panda_plugins directory under the folder, faros.
 
 
-## RUNNING FAROS
+## Running FAROS
 
 FAROS can be run in two modes: 1. Real time 2. Record/Replay, but we only recommand using FAROS in Record/Replay mode.
 
@@ -61,21 +61,21 @@ list associated with each one of these memory addresses.
     2 Replay
         2.1 Start VM
             $cd qemu/
-            $sudo ./i386-softmmu/qemu-system-i386 -replay record_name -m 4048 --monitor stdio -netdev user,id=net0 -device e1000,netdev=net0 -panda faros:pname=mal.exe
+            $sudo ./i386-softmmu/qemu-system-i386 -replay record_name -m 1G --monitor stdio -netdev user,id=net0 -device e1000,netdev=net0 -panda faros:pname=mal.exe
 
 
-## FAROS OUTPUT
+## FAROS Output
 
 FAROS plugin generates an output file (i.e. faros.taint) under the following directory:
 
         PATH_TO_FAROS_DIR/faros-faros_panda/panda/qemu/
  
-This file containts all information of detected in-mmeory injection attacks.
+This file containts all information of detected in-memory injection attacks.
 
+## Publications
 
-## PUBLICATIONS
-
-    * Meisam Navaki Arefi, Geoffrey Alexander, Hooman Rokham, Aokun Chen, Daniela Oliveira, Xuetao Wei, Michalis Faloutsos, and Jedidiah R. Crandall. **FAROS: Illuminating In-Memory Injection Attacks via Provenance-based Whole System Dynamic Information Flow Tracking**. Accepted (pending shepherd approval) to the IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2018). Luxembourg City, Luxembourg. June 2018.
+----
+* Meisam Navaki Arefi, Geoffrey Alexander, Hooman Rokham, Aokun Chen, Daniela Oliveira, Xuetao Wei, Michalis Faloutsos, and Jedidiah R. Crandall. **FAROS: Illuminating In-Memory Injection Attacks via Provenance-based Whole System Dynamic Information Flow Tracking**. Accepted (pending shepherd approval) to the IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2018). Luxembourg City, Luxembourg. June 2018.
 
 ## License
 
