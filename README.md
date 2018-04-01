@@ -15,10 +15,10 @@ information.
 ## Install
 
 To install the PANDA component of FAROS, install all the required libraries
-to install PANDA as detailed in [README_PANDA.md](README_PANDA.md). 
+to install PANDA as detailed in [README_PANDA.md](panda/README_PANDA.md). 
 
 Once you have installed all the dependencies run the install script, found at
-[qemu/build.sh](qemu/build.sh).
+[qemu/build.sh](panda/qemu/build.sh).
 
 
 ## FAROS Plugin
@@ -74,7 +74,6 @@ This file containts all information of detected in-memory injection attacks.
 
 ## Publications
 
-----
 * Meisam Navaki Arefi, Geoffrey Alexander, Hooman Rokham, Aokun Chen, Daniela Oliveira, Xuetao Wei, Michalis Faloutsos, and Jedidiah R. Crandall. **FAROS: Illuminating In-Memory Injection Attacks via Provenance-based Whole System Dynamic Information Flow Tracking**. Accepted (pending shepherd approval) to the IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2018). Luxembourg City, Luxembourg. June 2018.
 
 ## License
